@@ -27,10 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'teerasak-project.herokuapp.com',
-    'teerasak-project.herokuapp.com/',
-    'https://teerasak-project.herokuapp.com',
-    'https://teerasak-project.herokuapp.com/'
+    'thanakit-project.herokuapp.com',
+    'thanakit-project.herokuapp.com/',
+    'https://thanakit-project.herokuapp.com',
+    'https://thanakit-project.herokuapp.com/'
     
 ]
 
